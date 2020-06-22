@@ -1,4 +1,4 @@
-# C-Marble-Game
+# C/C++-Marble-Game
 A C language  written Game based on the concept of availablity of marbles
 Game mode -
 p1 v p2
